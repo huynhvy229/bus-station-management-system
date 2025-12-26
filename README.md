@@ -19,11 +19,11 @@ Tôi chịu trách nhiệm thiết kế giao diện giúp hành khách dễ dàn
 ---
 
 ## Software Testing (My Contributions)
-Tôi đảm nhận vai trò đảm bảo chất lượng, tập trung vào logic vận hành hệ thống.
-Kiểm thử các chức năng trong trang của Admin (Người quản lý nhà xe)
-Kết quả: Thiết kế & thực thi 210 Test Cases.
-Tài liệu: Đã hoàn thiện Test Plan, Test Cases theo từng Sprint và Bug Report.
 
+* **Phạm vi :** Kiểm thử các chức năng trong trang của Admin (Người quản lý nhà xe)
+* **Kết quả :** Thiết kế & thực thi 210 Test Cases.
+* **Tài liệu :** Đã hoàn thiện Test Plan, Test Cases theo từng Sprint và Bug Report.
+  
 ### Tài liệu kiểm thử
 Tài liệu được phân loại rõ ràng trong các thư mục:
 * `testing/test-plan/`: Kế hoạch kiểm thử.
